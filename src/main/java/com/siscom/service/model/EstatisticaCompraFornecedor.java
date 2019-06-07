@@ -40,7 +40,7 @@ public class EstatisticaCompraFornecedor implements Serializable {
 
     @Override
     public String toString() {
-        return "EstatisticaCompraFornecedor{" +
+        return "Estatistica{" +
                 "nome='" + nome + '\'' +
                 ", vezesVendeu=" + vezesVendeu +
                 ", valorTotal=" + valorTotal +
